@@ -1,0 +1,26 @@
+{
+  "name": "com.wamo.ezwebbing",
+  "version": "1.0.0",
+  "displayName": "EZWebbing",
+  "description": "A general-purpose visual graph UI framework for connecting nodes by dragging lines between them. Suitable for detective/mystery boards, crafting systems, skill trees, mind maps, and similar node-based interfaces.",
+  "unity": "2022.3",
+  "license": "MIT",
+  "keywords": [
+    "ui",
+    "node",
+    "graph",
+    "webbing",
+    "connection",
+    "ugui"
+  ],
+  "author": {
+    "name": "wamo"
+  },
+  "samples": [
+    {
+      "displayName": "Mind Map",
+      "description": "A free-form mind map board with node placement, connections, and Save/Load. Requires TextMeshPro.",
+      "path": "Samples~/MindMap"
+    }
+  ]
+}
