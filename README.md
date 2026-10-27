@@ -1,4 +1,6 @@
 # EZWebbing
+<img width="1950" height="1300" alt="cover" src="https://github.com/user-attachments/assets/05206ff5-dc3c-4707-99c3-3873ef702095" />
+
 
 **EZWebbing** is a general-purpose visual graph UI framework for Unity UGUI.
 It lets players (or your own tools) connect nodes by dragging lines between
@@ -12,6 +14,9 @@ EZWebbing handles placement, dragging, connecting, validating, and
 serializing the graph.
 
 ## Features
+<img width="1374" height="768" alt="Screenshot1" src="https://github.com/user-attachments/assets/64d66d2e-1af6-4a04-9a8b-1b8deef9440c" />
+<img width="1377" height="775" alt="Screenshot0" src="https://github.com/user-attachments/assets/da7ebf0e-fb93-4781-a7bb-9e018a2d09ce" />
+<img width="1377" height="774" alt="Screenshot2" src="https://github.com/user-attachments/assets/1c7571e5-03e4-4994-a424-9b87156267ee" />
 
 - Drag-to-connect pins with **Pending / Valid / Invalid** visual states
 - Pluggable connection validation via a single delegate
